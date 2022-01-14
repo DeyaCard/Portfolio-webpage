@@ -18,3 +18,7 @@ p {
 li {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+body {
+  background-color: rgb(203, 201, 200);
+}
