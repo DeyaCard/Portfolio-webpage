@@ -22,3 +22,12 @@ li {
 body {
   background-color: rgb(203, 201, 200);
 }
+
+img{
+  float: left;
+}
+
+.sidebar {
+  width: 50%;
+  float: right;
+}
