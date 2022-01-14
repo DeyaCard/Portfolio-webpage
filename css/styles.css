@@ -33,8 +33,8 @@ img{
 }
 
 .my-class {
-  margin: 10px;
-  border: 2px black;
+  margin: auto;
+  border: 10px black;
   padding: 4px;
   background-color: teal;
 
@@ -42,7 +42,7 @@ img{
 
 .centered-image {
   margin: auto;
-  width: 50%;
+  width: 25%;
   height: auto;
   display: block;
 }
