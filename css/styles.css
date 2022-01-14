@@ -1,6 +1,5 @@
 h1 {
   color: teal;
-  font-size: 50px;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -27,8 +26,8 @@ img{
 }
 
 .sidebar {
-  width: 50%;
-  float: left;
+  width: 75%;
+  float: right;
 }
 
 .my-class {
