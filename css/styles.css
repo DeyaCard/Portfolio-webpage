@@ -29,5 +29,20 @@ img{
 
 .sidebar {
   width: 50%;
-  float: right;
+  float: left;
+}
+
+.my-class {
+  margin: 10px;
+  border: 2px black;
+  padding: 4px;
+  background-color: teal;
+
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
 }
