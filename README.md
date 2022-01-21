@@ -1,4 +1,5 @@
 # Portfolio Webpage
+* https://deyacard.github.io/Portfolio-webpage/
 
 #### By Deya Card
 
@@ -20,7 +21,8 @@ Basic website with links to portfolio work.
 * Internet access.
 * GitHub account.
 * Clone project and open in the index.html file.
-* https://deyacard.github.io/Portfolio-webpage/
+* https://github.com/DeyaCard/Portfolio-webpage.git
+
 
 
 ## Known Bugs
