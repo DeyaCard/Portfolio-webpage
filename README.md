@@ -20,6 +20,7 @@ Basic website with links to portfolio work.
 * Internet access.
 * GitHub account.
 * Clone project and open in the index.html file.
+* https://deyacard.github.io/Portfolio-webpage/
 
 
 ## Known Bugs
@@ -28,6 +29,6 @@ Basic website with links to portfolio work.
 
 
 ## License
-
+*  MIT
 
 Copyright (c) 2022 Deya Card
