@@ -19,7 +19,7 @@ Basic website with links to portfolio work.
 
 * Internet access.
 * GitHub account.
-* 
+* Clone project and open in the index.html file.
 
 
 ## Known Bugs
